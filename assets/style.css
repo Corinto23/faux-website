@@ -6,7 +6,7 @@ body{
 .faux-nav {
     width: auto;
     height: 60px;
-    background-color:red;
+    background-color:#ff7101;
     display: flex;
     justify-content: space-around;
     align-items: center;
